@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am working as a Backend Developer at Fibbo.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
+<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am working as a Backend Developer.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
 
 ###
 
@@ -34,7 +34,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -45,7 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
