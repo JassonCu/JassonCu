@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am working as a Backend Developer at Cooperativa Coopsama RL.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
+<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am a Backend Developer.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
 
 ###
 
