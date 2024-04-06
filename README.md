@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am a Backend Developer.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
+<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am a Backend Developer || DevOps Engineer || AWS Solution Archictect.<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies.</p>
 
 ###
 
@@ -34,8 +34,6 @@
 <div align="Center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -48,4 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  </div>
