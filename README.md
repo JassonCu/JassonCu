@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am a Backend Developer || DevOps Engineer || AWS Solution Archictect at Allied Global Technology Services<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies. <br>- 💻 I am a current collaborator in the development of <a href="https://github.com/JassonCu/django" target="_blank">Django</a>.</p>
+<p align="left">I'm Jasson Cu from Guatemala<br><br>- 🔭 I am a Backend Developer || DevOps Engineer || AWS Solution Archictect at Banco G&T Continental<br>- 📚 I am currently studying Systems Engineering at the Mariano Gálvez University of Guatemala.<br>- ⚡ In my free time I take advantage of the time to learn new technologies. <br>- 💻 I am a current collaborator in the development of <a href="https://github.com/JassonCu/django" target="_blank">Django</a>.</p>
 
 ###
 
